@@ -1,2 +1,2 @@
 # IAC-Linux
-Script para criacao de USUARIOS, GRUPOS e  Diretorios, vinculando os usaurios a seus respectivos Grupos e diretorio.
+Script para criacao de USUARIOS, GRUPOS e DIRETORIOS, vinculando os usuários á seus respectivos Grupos e Diretorio.
